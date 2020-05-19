@@ -1,6 +1,6 @@
 About The App:
 
-A Simple ToDo Application developed using Flutter and Hive which supports Calender View
+A Simple ToDo Application developed using Flutter and Hive which supports Calender View and implemented with Bloc style Sink/Stream state changes and Toasts/local notification support. 
 
 Instructions:
 
